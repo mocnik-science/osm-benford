@@ -1,6 +1,6 @@
 # OSM Benford
 
-This software compares several aspects of the OSM dataset to the Benford distribution.
+This software compares several aspects of the OpenStreetMap dataset to the Benford distribution.
 
 ## Author
 
