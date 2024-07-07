@@ -6,7 +6,7 @@ This software compares several aspects of the OpenStreetMap dataset to the Benfo
 
 The code has been used for preparing the following publication:
 
-* F.-B. Mocnik: [**Benford's Law and Geographical Information – The Example of OpenStreetMap.**](http://doi.org/10.1080/13658816.2020.1829627) International Journal of Geographical Information Science 35(9), 2021, 1746–1772. doi: 10.1080/13658816.2020.1829627
+* FB Mocnik: [**Benford's Law and Geographical Information – The Example of OpenStreetMap.**](http://doi.org/10.1080/13658816.2020.1829627) International Journal of Geographical Information Science 35(9), 2021, 1746–1772. doi: 10.1080/13658816.2020.1829627
 
 ## Author
 
